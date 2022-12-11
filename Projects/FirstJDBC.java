@@ -10,7 +10,7 @@ public class FirstJDBC {
             //creating connection
             String url = "jdbc:mysql://localhost:3306/youtube";
             String username = "root";
-            String password = "Manish9766";
+            String password = "XXXiXX9766";     // Pass hiden with x
 
             Connection con = DriverManager.getConnection(url, username, password);
 
